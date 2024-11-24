@@ -1,0 +1,58 @@
+{ 'users' : [
+    {
+        'id':1,
+        'name': 'Illia',
+        'surname': 'Robovodovich',
+        'photo_url':"",
+        "balance":2000
+    }
+    {
+
+    }
+]},
+'producs' :[   {
+    'name': 'arduino',
+    'photo_url':"";
+    "balance":1000,
+    'description':'This is board for programing'
+}]
+'products' :[
+    {
+        'name': 'Модуль защиты и зарядки 3S 15W 8.4V 12.6V 1.5A',
+        'photo_url': 'https://robostore.com.ua/content/images/7/577x332l80bc40/kley-silikonovyy-dlya-termopistoleta-7-mm-15-sht.-chernyy-87939641901409.webp'
+        'price': '75.00'
+        'description': '001447'
+    }
+    {
+        'name': 'Набір викруток YSIDO 7 шт'
+        'photo_url': 'https://robostore.com.ua/content/images/10/361x355l80bc40/oborudovanie-dlya-robototehnikiruchnoj-instrumentotvertka-indikator-napryazheniya-140-mm-220-250-v-prozrachna-67056064441896.webp'
+        'price': '600.00'
+        'description': '000813'
+    }
+    {
+        'name': 'Вкладиш очищувача жал паяльника'
+        'photo_url': 'https://robostore.com.ua/content/images/29/255x217l80bc40/oborudovanie-dlya-robototehnikipayalnoe-oborudovaniepayalnikipayalnaya-stanciya-saike-936-60-vt-s-blokom-regulirovki-temp-90158504556504.webp'
+        'price': '40.00'
+        'description': '000913'
+    }
+    {
+        'name': 'Припій Mechanic HX-T100 0.8 мм Sn60Pb40 55 гр'
+        'photo_url': 'https://robostore.com.ua/content/images/34/503x496l80bc40/oborudovanie-dlya-robototehnikipayalnoe-oborudovaniepayalnikiolovootsos-pompovyj-proskit-dp-366d-85884517800352.webp'
+        'price': '180.00'
+        'description': '000918'
+    }
+    {
+        'name': 'Викрутка NEO прецизійна PH00 x 50 мм'
+        'photo_url': 'https://robostore.com.ua/content/images/13/782x677l80bc40/otvertka-ph0-50-mm1462-18152877161459.webp'
+        'price': '35.00'
+        'description': '002055'
+    }
+    {
+        'name': 'Модуль потенціометра, енкодер 360 для Ардуіно'
+        'photo_url': 'https://robostore.com.ua/content/images/29/1500x1500l80bc40/modul-potenciometra-enkoder-360-dlja-arduino-61317890280330.webp'
+        'price': '6.00'
+        'description': '001677'
+    }
+
+
+]
